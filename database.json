@@ -1,0 +1,37 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Huy",
+      "graduated": true
+    },
+    {
+      "id": 2,
+      "name": "Nhan",
+      "graduated": false
+    },
+    {
+      "name": "rahman",
+      "id": 5,
+      "graduated": true
+    },
+    {
+      "name": "Trieu",
+      "id": 6
+    },
+    {
+      "name": "Minh",
+      "id": 8,
+      "graduated": false
+    },
+    {
+      "name": "aaaaaa",
+      "id": 10,
+      "graduated": false
+    },
+    {
+      "name": "ssssss",
+      "id": 11
+    }
+  ]
+}
