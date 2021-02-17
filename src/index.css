@@ -1,0 +1,17 @@
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+table,td {
+  border: solid black 1px;
+  border-collapse: collapse;
+}
+th {
+  background-color: yellow;
+}
+th,td {
+  padding: 5px 10px;
+}
+tr:hover{
+  background-color: blue;
+}
